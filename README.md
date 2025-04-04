@@ -1,6 +1,6 @@
 ![Screenshot (1023)](https://github.com/user-attachments/assets/a85c1024-4924-40b2-98e7-c137fbe6cdc0)
 
-# 👋 Hi, I'm <p color="cyan">Raika</p>!  
+# 👋 Hi, I'm **Raika**!  
 **`💻 Computer Science | Web Developer `**
 
 🎓 Informatics Student (2024) at [University of Singaperbangsa Karawang](https://www.unsika.ac.id/), Indonesia.<br/>
