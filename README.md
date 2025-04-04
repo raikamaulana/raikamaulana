@@ -1,9 +1,9 @@
 ![Screenshot (1023)](https://github.com/user-attachments/assets/a85c1024-4924-40b2-98e7-c137fbe6cdc0)
 
-# 👋 Hi, I'm Raika!  
+# 👋 Hi, I'm <p color="cyan">Raika</p>!  
 **`💻 Computer Science | Web Developer `**
 
-🎓 Informatics Student (Class of 2024) at [University of Singaperbangsa Karawang](https://www.unsika.ac.id/), Indonesia.<br/>
+🎓 Informatics Student (2024) at [University of Singaperbangsa Karawang](https://www.unsika.ac.id/), Indonesia.<br/>
 📌 Member and Executive Secretary of the Research and Development Division at [HIMTIKA](https://himtika.cs.unsika.ac.id/).<br/>
 🚀 Currently focusing on building repositories related to my coursework and projects.<br/>
 🔍 Passionate about web development, software engineering, and problem-solving.<br/>
