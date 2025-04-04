@@ -1,8 +1,8 @@
 ![Screenshot (1023)](https://github.com/user-attachments/assets/a85c1024-4924-40b2-98e7-c137fbe6cdc0)
 
 # 👋 Hi, I'm Raika!
-
 <img src="https://img.shields.io/badge/Name-Raika-00FFFF?style=flat-square" />  
+
 **`💻 Computer Science | Web Developer `**
 
 🎓 Informatics Student (2024) at [University of Singaperbangsa Karawang](https://www.unsika.ac.id/), Indonesia.<br/>
