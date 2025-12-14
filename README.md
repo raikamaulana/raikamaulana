@@ -1,7 +1,5 @@
-![Screenshot (1023)](https://github.com/user-attachments/assets/a85c1024-4924-40b2-98e7-c137fbe6cdc0)
-
 # 👋 Hi, I'm Raika!
-<img src="https://img.shields.io/badge/Name-Raika-00FFFF?style=flat-square" />  
+<img width="1920" height="414" alt="github-profil" src="https://github.com/user-attachments/assets/89d59ea5-f651-4def-a742-4a5b14a990e7" />
 
 **`💻 Computer Science | Web Developer `**
 
